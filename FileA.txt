@@ -1,1 +1,10 @@
-yo mama
+Unit Testing
+What is Unit Testing?
+Unit testing is the execution of a complete class, routine or small program that has been written by a single programmer or team of programmers, which is tested in isolation from the more complete system. 
+It is a type of whitebox testing.
+
+
+Integration Testing
+What is Integration testing?
+Integration testing is the combined execution of two or more classes, packages, components, or subsystems that have been created by multiple programmers or programming teams. This kind of testing typically starts as soon as there are two classes to test and continues until the entire system is complete.
+It is a type of blackbox testing.
